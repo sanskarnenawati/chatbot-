@@ -1,0 +1,4 @@
+Flask==2.3.2
+TM1py==1.10.0
+requests
+gunicorn
